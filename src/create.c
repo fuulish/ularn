@@ -5,6 +5,8 @@
 #include "itm.h"
 #include "extern.h"
 
+struct_mitem mitem[MAXX][MAXY];
+
 /*
  *	makeplayer()
  *

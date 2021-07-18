@@ -6,6 +6,7 @@
 #include "sphere.h"
 #include "extern.h"
 
+struct sphere *spheres;
 /*
  *		  		create a new sphere of annihilation
  *	newsphere(x,y,dir,lifetime)  
